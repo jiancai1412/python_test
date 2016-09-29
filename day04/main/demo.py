@@ -4,3 +4,4 @@
 def Foo():
     print 'demo.Foo()'
 	print 'hello'
+	print 'world'
